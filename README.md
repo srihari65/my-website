@@ -157,6 +157,10 @@
   <h3>Hobbies</h3>
 
   <p><a href="hobbies.html">click here</a></p>
+  
+  <h3>Rate  Me:</h3>
+  
+  <p><a href="feedback.html">click here</a></p>
 
 </body>
 
