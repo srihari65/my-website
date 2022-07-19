@@ -11,7 +11,29 @@
   <title>sriharibandaru</title>
 
 </head>
+<style>
+body {
+      background-color: #F0EBE3;
+    }
 
+    hr {
+      background-color: inherit;
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width: 5%;
+    }
+</style>
+    h1 {
+      background-color: #F0EBE3;
+      color: #FF9F29;
+    }
+
+    h3 {
+      background-color: #F0EBE3;
+      color: #18978F;
+    }
 
 
 <body>
