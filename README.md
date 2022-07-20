@@ -37,7 +37,7 @@
 
 <body>
 
-  <table background-color: #F0EBE3;>
+  <table>
 
     <tr>
 
@@ -75,7 +75,7 @@
 
   <h3>Education</h3>
 
-  <table background-color: #F0EBE3;>
+  <table>
 
     <tr>
 
