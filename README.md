@@ -133,7 +133,7 @@
 
   <h3>Technical</h3>
 
-  <table style="background-color:#F0EBE3;>
+  <table>
 
     <tr>
 
