@@ -24,6 +24,8 @@ body {
       border-width: 5px;
       width: 5%;
     }
+    table { background-color: inherit;
+    }
 </style>
 
 
