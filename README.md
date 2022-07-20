@@ -25,15 +25,15 @@ body {
       width: 5%;
     }
 </style>
-    h1 {
-      background-color: #F0EBE3;
-      color: #FF9F29;
-    }
 
-    h3 {
-      background-color: #F0EBE3;
-      color: #18978F;
-    }
+
+
+
+
+
+
+
+
 
 
 <body>
