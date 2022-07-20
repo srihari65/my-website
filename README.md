@@ -11,23 +11,19 @@
   <title>sriharibandaru</title>
 
 </head>
-<style>
-body {
-      background-color: #F0EBE3;
-    }
 
-    hr {
-      background-color: inherit;
-      border-style: none;
-      border-top-style: dotted;
-      border-color: grey;
-      border-width: 5px;
-      width: 5%;
-    }
-    table { 
-     background-color:#F0EBE3;
-    }
-</style>
+<link rel="stylesheet" href="css/styles.css">
+      
+
+
+
+      
+
+
+
+
+
+
 
 
 
